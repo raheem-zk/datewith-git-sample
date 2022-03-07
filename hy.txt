@@ -1,0 +1,16 @@
+1.git init # first time 
+1.git clone
+2.git status
+3.git --all
+3.git add 'file name or web page'
+4.git commit -m '"tell what is the chenges"'
+5.git log
+5.git log --all
+6.git branch 
+# git branch feature
+7.git cheeckout # git checkout 'commit id'
+8.git diff
+9.git stash # full wipout remove 
+10.git log --all --decorate --graph
+11.git merge
+# git merge "some time manuval using tis comment"
